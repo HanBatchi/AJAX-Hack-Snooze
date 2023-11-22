@@ -1,0 +1,56 @@
+/* Navigation bar */
+nav {
+  display: flex;
+  background-color: #ff6600;
+  align-items: center;
+  padding: 35px 35px;
+  border-radius: 3px 3px 0 0;
+  transition: 0.5s;
+}
+nav:hover{
+  padding: 40px 40px;
+}
+/* #new-story-form {
+  display: none;
+} */  
+
+.navbar-brand {
+  font-weight: bold;
+}
+.main-nav-links {
+  margin: 0 10px;
+  font-size: 25px;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-link {
+  font-size: 1rem;
+  margin: 0 5px;
+  transition: 0.5s;
+}
+.nav-link:hover{
+  font-size: 1.2rem;
+}
+
+.nav-right {
+  margin-left: auto;
+  text-align: right;
+}
+#nav-all{
+  font-size: 1.8rem;
+  margin-left: 0px;
+}
+#nav-all:hover{
+  font-size: 1.8rem;
+}
+
+#nav-user-profile{
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+#nav-login{
+  font-size: 18px;
+  font-weight: bold;
+}

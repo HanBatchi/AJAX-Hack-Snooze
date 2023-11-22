@@ -1,0 +1,42 @@
+/* Login and signup forms */
+
+.account-form button {
+  margin-left: 80px;
+  width: 6rem;
+  padding: 15px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 20px;
+}
+
+#signup-form button {
+  width: 11rem;
+  padding: 15px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 20px;
+}
+
+.account-forms-container {
+  padding-left: 20px;
+}
+#login-password,
+#login-username,
+#signup-name,
+#signup-username,
+#signup-password {
+  border-radius: 10px;
+  padding: 10px 15px;
+  font-size: 15px;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+#signup-text{
+  font-size: 16px;
+  margin-right: 15px;
+}
+h4{
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
